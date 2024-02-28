@@ -1,0 +1,21 @@
+p{
+   text-align: left;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 100px;
+    margin-top: 0px;
+    text-shadow: #FC0 1px 0 10px;
+}
+.pav{
+    text-align: right;
+    font-size: 40px;
+}
+body{
+    background-color: chocolate;
+}
+#zh{
+    font-size: 25px;
+}
+i{
+    font-size: 20px;
+    letter-spacing: 3px;
+}
