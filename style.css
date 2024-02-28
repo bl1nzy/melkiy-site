@@ -28,6 +28,6 @@ footer {
     text-align: center;
     background-color: blueviolet;
     color: green;
-    font-family: "Comic Sans MS", "Comic Sans";
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
     font-size: 35px;
 }
